@@ -1,3 +1,4 @@
+# SQL-project
 🌍 Music Festival Database 🎵
 
 This is an SQL-based database designed to store and manage information about music festivals worldwide! 🎤
